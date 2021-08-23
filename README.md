@@ -12,11 +12,13 @@ Um sistema de cadastro de usuários com integração a um banco de dados local c
 
 <h2>Comandos no terminal:</h2>
 <ul>
-<li>npm start dentro da pasta /backend para iniciar o banco de dados db.JSON<p></li>
+<li>npm i nas duas pastas /backend e /frontend para instalar as dependências<p></li>
+</ul>
+<ul>
+<li>npm start dentro da pasta /backend para iniciar o banco de dados db.JSON e<p></li>
 </ul>
 <ul>
 <li>npm start dentro da pasta /frontend para iniciar a aplicação com o React, porta padrão:3000<p></li>
-</ul>
 <br>
 <br>
 <br>
