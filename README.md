@@ -1,5 +1,5 @@
 # Sistema de cadastro de usuário
-Um sistema de cadastro de usuários com integração a um banco de dados local com o React, no projeto você pode cadastrar, editar e excluir os usuários onde a aplicação se comunica direto com o arquivo db.JSON, a pagina foi feita em spa com o axios
+Um sistema de cadastro de usuários com integração a um banco de dados local com o React, no projeto você pode cadastrar, editar e excluir os usuários onde a aplicação se comunica direto com o arquivo db.JSON
 
 <br>
 
